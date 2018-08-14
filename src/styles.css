@@ -1,0 +1,15 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.css";
+@import "~font-awesome/css/font-awesome.css";
+
+html {
+  height: 90%;
+}
+
+body {
+  height: 90%;
+}
+
+main {
+  height: 90%;
+}
